@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <h1 align="center"><div style="background-color:#FF0000;color:black;">Employee survey</div></h1> 
+    <body><h2 align="center">let's know how you feel about your organization</h2>
+        <h3><p>*Personal info</p>
+        <p>Full name</p>
+            <form><input type="text"name"name /><br /></form>
+            <p>Email address</p><form><input type="text"email"email /><br /></form>
+        </h3>
+        <h4 align=center>Satisfaction Question</h4>
+<p>1. Do you have the flexibility to take time off when you need to? 
+ <form><input type="checkbox"=name"option"value"1" />Yes<br />
+           <input type="checkbox"=name"option"value"2" />No<br /> 
+</form></p>
+<p>2. Do you feel like your work contributes to the goals of your organization?
+<form><input type="checkbox"=name"option"value"1" />Yes<br />
+  <input type="checkbox"=name"option"value"1" />No<br /> 
+</form></p>
+<input type="Submit"value="Submit" />
+    </body>
+</html>
